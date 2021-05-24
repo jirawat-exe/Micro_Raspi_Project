@@ -17,8 +17,8 @@ git clone https://github.com/jirawat-exe/Micro_Raspi_Project
 
 Then rename and get in dir
 ```
-mv OBJ-Detection_and_LED tflite1
-cd tflite1
+mv Micro_Raspi_Project cam
+cd cam
 ```
 
 Install virtualenv by issuing:
@@ -28,12 +28,12 @@ sudo pip3 install virtualenv
 
 Then, create the "tflite1-env" virtual environment by issuing:
 ```
-python3 -m venv tflite1-env
+python3 -m venv cam-env
 ```
 
 activate the environment by issuing:
 ```
-source tflite1-env/bin/activate
+source cam-env/bin/activate
 ```
 
 3. Install TensorFlow Lite dependencies and OpenCV
