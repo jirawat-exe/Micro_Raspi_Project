@@ -17,8 +17,8 @@ git clone https://github.com/jirawat-exe/Micro_Raspi_Project
 
 Then rename and get in dir
 ```
-mv OBJ-Detection_and_LED tflite1
-cd tflite1
+mv Micro_Raspi_Project cam
+cd cam
 ```
 
 Install virtualenv by issuing:
