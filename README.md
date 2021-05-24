@@ -80,5 +80,5 @@ If your model folder has a different name than "Sample_TFLite_model", use that n
 After a few moments of initializing, a window will appear showing the webcam feed. Detected objects will have bounding boxes and labels displayed on them in real time.
 
 <p align="center">
-   <img height="700" src="doc/ins.jpg">
+   <img height="700" src="system.jpg">
 </p>
