@@ -12,7 +12,7 @@ Make sure the camera interface is enabled in the Raspberry Pi Configuration menu
 2.  Download this repository and create virtual environment
 
 ```
-git clone https://github.com/Puthinart-S/OBJ-Detection_and_LED.git
+git clone https://github.com/jirawat-exe/Micro_Raspi_Project
 ```
 
 Then rename and get in dir
